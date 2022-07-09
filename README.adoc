@@ -1,0 +1,3 @@
+== Practice with Spring External configuration
+Explained in this
+https://htmlpreview.github.io/?https://github.com/TomSpencerLondon/Quiz/blob/main/docs/coverage/index.html[article]
